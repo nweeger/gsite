@@ -1,6 +1,6 @@
 $(function () {
     // FlexNav
-    $(".flexnav").flexNav();
+//    $(".flexnav").flexNav();
 
     // Ensure homepage is styled correctly when loading full HTML file
     styleHomepage();
