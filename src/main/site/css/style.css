@@ -1522,7 +1522,7 @@ table tr td {
   display: none;
 }
 #nav li.logo a {
-  background: url('../img/navLogoBig.png') no-repeat;
+  background: url('navLogoBig.png') no-repeat;
   text-align: center;
   text-indent: -9999px;
   display: block;
@@ -1813,7 +1813,7 @@ a#logo-mobile {
 }
 @media (max-width: 649px) {
   a#logo-mobile {
-    background: url('../img/navLogoBig.png') no-repeat;
+    background: url('navLogoBig.png') no-repeat;
     -webkit-background-size: contain;
     background-size: contain;
     text-indent: -9999px;
@@ -2046,7 +2046,7 @@ nav#nav-mobile {
 }
 #content.home section.alternate::after {
   content: " ";
-  background: url('../img/logoBig.png') no-repeat;
+  background: url('logoBig.png') no-repeat;
   display: block;
   width: 1084px;
   height: 665px;
